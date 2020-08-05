@@ -48,7 +48,7 @@ Start adding your names here:
 - Love to work in python, linux and love to work for DevOps, Cloud Computing and OpenSource.
 - [![twitter-alt][twitter-img]](https://twitter.com/sr_abhayraj)
 - [![github-alt][github-img]](https://github.com/srabhayraj)
-- [![linkedin-alt][linkedin-img]](www.linkedin.com/in/abhay-raj-singh-rathore-54078a160)
+- [![linkedin-alt][linkedIn-img]](www.linkedin.com/in/abhay-raj-singh-rathore-54078a160)
 
 ### gursimran
 - I'm a programmer who stays in india
