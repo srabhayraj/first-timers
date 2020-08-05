@@ -41,6 +41,14 @@ Start adding your names here:
 - I go to high school and I think javascript is the best language... Well, I kinda like python too.
 - [![twitter-alt][twitter-img]](https://twitter.com/dumblole)
   [![github-alt][github-img]](https://github.com/dumblole)
+  
+  ### Abhay Raj Singh Rathore
+- I'm a student, interested in DevOps, OpenSource and Cloud Computing.
+- Exploring technologies to integrate something new.
+- Love to work in python, linux and love to work for DevOps, Cloud Computing and OpenSource.
+- [![twitter-alt][twitter-img]](https://twitter.com/sr_abhayraj)
+- [![github-alt][github-img]](https://github.com/srabhayraj)
+- [![linkedin-alt][linkedin-img]](www.linkedin.com/in/abhay-raj-singh-rathore-54078a160)
 
 ### gursimran
 - I'm a programmer who stays in india
